@@ -7,7 +7,7 @@ pragma experimental ABIEncoderV2;
 //   Alberto  |    23   |   123432G
 //    Joan    |    21   |   325443H
 //    Javier  |    19   |   342324M
-
+ 
 
 
 contract votacion{
